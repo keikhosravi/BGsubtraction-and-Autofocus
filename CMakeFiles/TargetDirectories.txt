@@ -1,0 +1,1 @@
+/home/zeus/LOCI/Adib/cpp practice/first_programs/opencv_trial1/CMakeFiles/entropy1.dir

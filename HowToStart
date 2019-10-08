@@ -1,0 +1,11 @@
+Link :- http://docs.opencv.org/2.4/doc/tutorials/introduction/linux_gcc_cmake/linux_gcc_cmake.html
+
+Run the script s1.sh by:-
+bash s1.sh
+
+How to run opencv programs:1
+update CMakeLists.txt and do :- 
+cmake .
+make
+
+./DisplayImage arguments
